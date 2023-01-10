@@ -1,5 +1,5 @@
 # 🪐 todo
-- **todo** is a task manager app built with ⚡ [**React Native**](https://reactnative.dev/) and [**Expo**](https://expo.dev/) for study purposes;
+- **todo** is a task management app built with ⚡ [**React Native**](https://reactnative.dev/) and [**Expo**](https://expo.dev/) for study purposes;
 - It is a result from a challenge proposed in the end of the first module of the *Ignite React Native* course, by [🚀 Rocketseat](https://rocketseat.com.br/).
 
 ## 🤓 Here's a GIF demonstrating the basic functionalities of the app:
